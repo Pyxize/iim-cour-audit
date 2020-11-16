@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="745c1a7a-5d31-40b3-ae23-75ccebf35d51" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="745c1a7a-5d31-40b3-ae23-75ccebf35d51" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605539049751</updated>
       <workItem from="1605539052560" duration="3126000" />
-      <workItem from="1605543081028" duration="1150000" />
+      <workItem from="1605543081028" duration="1458000" />
     </task>
     <task id="LOCAL-00001" summary="opti 1">
       <created>1605540319844</created>
@@ -83,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605542633651</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add vercel config">
+      <created>1605544903930</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605544903930</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update placeholder form">
+      <created>1605545006194</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605545006194</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +117,9 @@
     <MESSAGE value="opti 1" />
     <MESSAGE value="opti 2" />
     <MESSAGE value="opti 2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="opti 2.1" />
+    <MESSAGE value="add vercel config" />
+    <MESSAGE value="update placeholder form" />
+    <option name="LAST_COMMIT_MESSAGE" value="update placeholder form" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605539689845">

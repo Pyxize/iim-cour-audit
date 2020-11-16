@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "src": "index.html",
+      "src": "/",
       "headers": {
         "Content-Security-Policy": "default-src 'self'; img-src 'self' https://apis.google.com 'self' 'unsafe-eval'; style-src 'self' 'unsafe-inline'",
         "X-Frame-Options": "deny",
