@@ -2,8 +2,15 @@
  * Mobirise v4 theme (https://mobirise.com/)
  * Copyright 2017 Mobirise
  */
-body {
+@font-face {
+  font-family: 'Nunito';
   font-style: normal;
+  font-weight: 400;
+  url('../fonts/nunito-regular.woff2') format('woff2'); /* Super Modern Browsers */
+}
+
+body {
+  font-family: "Nunito", sans-serif;
   line-height: 1.5;
   color: #70747f; }
 
@@ -69,7 +76,6 @@ h6,
 .btn {
   color: initial;
   border-radius: 0;
-  font-family: 'Nunito', sans-serif;
   font-weight: 900;
   font-style: normal;
   letter-spacing: 0px;
